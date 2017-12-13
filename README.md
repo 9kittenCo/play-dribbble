@@ -1,8 +1,8 @@
-##Play! 2.6
-##Scala 2.12.4
-##sbt 1.0.4
+Play! 2.6
+Scala 2.12.4
+sbt 1.0.4
 
-##Description
+Description
 You have to create tool to calculate Dribbble stats using dribble public api:
 1. For given Dribbble user find all followers
 2. For each follower find all shots
